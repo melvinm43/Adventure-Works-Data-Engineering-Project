@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-adep2"
+		},
+		"storageDataLake_accountKey": {
+			"value": ""
+		},
+		"HttpLinkedService_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"storageDataLake_properties_typeProperties_url": {
+			"value": "https://adep2sa.dfs.core.windows.net/"
+		}
+	}
+}
