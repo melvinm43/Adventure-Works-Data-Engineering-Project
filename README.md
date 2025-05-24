@@ -1,6 +1,7 @@
 High Level Design Diagram:
 
-![High Level Design Diagram](https://github.com/user-attachments/assets/04804d26-4fdb-4ca7-89de-9631b3be7f7f)
+![Adventure_Works_DE_Project_Azure drawio](https://github.com/user-attachments/assets/8d661695-4d94-4469-a74f-254472a5e0dd)
+
 
 🔷 Project Description: End-to-End Modern Data Lakehouse with Azure
 This project implements a modern data lakehouse architecture on Azure using a layered approach — Bronze, Silver, and Gold zones — to efficiently ingest, process, store, and visualize data.
